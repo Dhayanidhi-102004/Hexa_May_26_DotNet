@@ -1,0 +1,13 @@
+-------- SALARY SLIP ------------
+Employee Id    :3
+Employee Name    :Mohamed
+Department    :Admin
+Joining Date    :10-05-YYYY
+Experience   :1
+--------------------------------------------
+Monthly Salary   :55000
+Annual Salary   :660000
+PF Deduction   :6600.00
+Professional Tax   :200
+Net Salary   :48200.00
+----------------------------------------------------
