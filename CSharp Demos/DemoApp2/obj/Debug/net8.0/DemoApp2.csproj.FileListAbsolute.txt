@@ -1,0 +1,15 @@
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\DemoApp2\bin\Debug\net8.0\DemoApp2.exe
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\DemoApp2\bin\Debug\net8.0\DemoApp2.deps.json
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\DemoApp2\bin\Debug\net8.0\DemoApp2.runtimeconfig.json
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\DemoApp2\bin\Debug\net8.0\DemoApp2.dll
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\DemoApp2\bin\Debug\net8.0\DemoApp2.pdb
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\DemoApp2\obj\Debug\net8.0\DemoApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\DemoApp2\obj\Debug\net8.0\DemoApp2.AssemblyInfoInputs.cache
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\DemoApp2\obj\Debug\net8.0\DemoApp2.AssemblyInfo.cs
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\DemoApp2\obj\Debug\net8.0\DemoApp2.csproj.CoreCompileInputs.cache
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\DemoApp2\obj\Debug\net8.0\DemoApp2.sourcelink.json
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\DemoApp2\obj\Debug\net8.0\DemoApp2.dll
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\DemoApp2\obj\Debug\net8.0\refint\DemoApp2.dll
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\DemoApp2\obj\Debug\net8.0\DemoApp2.pdb
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\DemoApp2\obj\Debug\net8.0\DemoApp2.genruntimeconfig.cache
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\DemoApp2\obj\Debug\net8.0\ref\DemoApp2.dll

@@ -1,0 +1,15 @@
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\RegexDemo\bin\Debug\net8.0\RegexDemo.exe
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\RegexDemo\bin\Debug\net8.0\RegexDemo.deps.json
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\RegexDemo\bin\Debug\net8.0\RegexDemo.runtimeconfig.json
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\RegexDemo\bin\Debug\net8.0\RegexDemo.dll
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\RegexDemo\bin\Debug\net8.0\RegexDemo.pdb
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\RegexDemo\obj\Debug\net8.0\RegexDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\RegexDemo\obj\Debug\net8.0\RegexDemo.AssemblyInfoInputs.cache
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\RegexDemo\obj\Debug\net8.0\RegexDemo.AssemblyInfo.cs
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\RegexDemo\obj\Debug\net8.0\RegexDemo.csproj.CoreCompileInputs.cache
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\RegexDemo\obj\Debug\net8.0\RegexDemo.sourcelink.json
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\RegexDemo\obj\Debug\net8.0\RegexDemo.dll
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\RegexDemo\obj\Debug\net8.0\refint\RegexDemo.dll
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\RegexDemo\obj\Debug\net8.0\RegexDemo.pdb
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\RegexDemo\obj\Debug\net8.0\RegexDemo.genruntimeconfig.cache
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\RegexDemo\obj\Debug\net8.0\ref\RegexDemo.dll

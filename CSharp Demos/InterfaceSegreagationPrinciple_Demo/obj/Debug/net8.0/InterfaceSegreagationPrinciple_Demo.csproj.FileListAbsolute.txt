@@ -1,0 +1,15 @@
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\InterfaceSegreagationPrinciple_Demo\bin\Debug\net8.0\InterfaceSegreagationPrinciple_Demo.exe
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\InterfaceSegreagationPrinciple_Demo\bin\Debug\net8.0\InterfaceSegreagationPrinciple_Demo.deps.json
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\InterfaceSegreagationPrinciple_Demo\bin\Debug\net8.0\InterfaceSegreagationPrinciple_Demo.runtimeconfig.json
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\InterfaceSegreagationPrinciple_Demo\bin\Debug\net8.0\InterfaceSegreagationPrinciple_Demo.dll
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\InterfaceSegreagationPrinciple_Demo\bin\Debug\net8.0\InterfaceSegreagationPrinciple_Demo.pdb
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\InterfaceSegreagationPrinciple_Demo\obj\Debug\net8.0\InterfaceSegreagationPrinciple_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\InterfaceSegreagationPrinciple_Demo\obj\Debug\net8.0\InterfaceSegreagationPrinciple_Demo.AssemblyInfoInputs.cache
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\InterfaceSegreagationPrinciple_Demo\obj\Debug\net8.0\InterfaceSegreagationPrinciple_Demo.AssemblyInfo.cs
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\InterfaceSegreagationPrinciple_Demo\obj\Debug\net8.0\InterfaceSegreagationPrinciple_Demo.csproj.CoreCompileInputs.cache
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\InterfaceSegreagationPrinciple_Demo\obj\Debug\net8.0\InterfaceSegreagationPrinciple_Demo.sourcelink.json
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\InterfaceSegreagationPrinciple_Demo\obj\Debug\net8.0\InterfaceSegreagationPrinciple_Demo.dll
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\InterfaceSegreagationPrinciple_Demo\obj\Debug\net8.0\refint\InterfaceSegreagationPrinciple_Demo.dll
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\InterfaceSegreagationPrinciple_Demo\obj\Debug\net8.0\InterfaceSegreagationPrinciple_Demo.pdb
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\InterfaceSegreagationPrinciple_Demo\obj\Debug\net8.0\InterfaceSegreagationPrinciple_Demo.genruntimeconfig.cache
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\InterfaceSegreagationPrinciple_Demo\obj\Debug\net8.0\ref\InterfaceSegreagationPrinciple_Demo.dll
