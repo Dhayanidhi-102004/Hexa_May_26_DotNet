@@ -1,0 +1,13 @@
+-------- SALARY SLIP ------------
+Employee Id    :1
+Employee Name    :Janani
+Department    :IT
+Joining Date    :20-05-YYYY
+Experience   :1
+--------------------------------------------
+Monthly Salary   :50000
+Annual Salary   :600000
+PF Deduction   :6000.00
+Professional Tax   :200
+Net Salary   :43800.00
+----------------------------------------------------

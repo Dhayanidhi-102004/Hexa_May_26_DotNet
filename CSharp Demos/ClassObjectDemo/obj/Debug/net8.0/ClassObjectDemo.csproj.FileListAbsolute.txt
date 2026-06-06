@@ -1,0 +1,15 @@
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\ClassObjectDemo\bin\Debug\net8.0\ClassObjectDemo.exe
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\ClassObjectDemo\bin\Debug\net8.0\ClassObjectDemo.deps.json
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\ClassObjectDemo\bin\Debug\net8.0\ClassObjectDemo.runtimeconfig.json
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\ClassObjectDemo\bin\Debug\net8.0\ClassObjectDemo.dll
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\ClassObjectDemo\bin\Debug\net8.0\ClassObjectDemo.pdb
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\ClassObjectDemo\obj\Debug\net8.0\ClassObjectDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\ClassObjectDemo\obj\Debug\net8.0\ClassObjectDemo.AssemblyInfoInputs.cache
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\ClassObjectDemo\obj\Debug\net8.0\ClassObjectDemo.AssemblyInfo.cs
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\ClassObjectDemo\obj\Debug\net8.0\ClassObjectDemo.csproj.CoreCompileInputs.cache
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\ClassObjectDemo\obj\Debug\net8.0\ClassObjectDemo.sourcelink.json
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\ClassObjectDemo\obj\Debug\net8.0\ClassObjectDemo.dll
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\ClassObjectDemo\obj\Debug\net8.0\refint\ClassObjectDemo.dll
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\ClassObjectDemo\obj\Debug\net8.0\ClassObjectDemo.pdb
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\ClassObjectDemo\obj\Debug\net8.0\ClassObjectDemo.genruntimeconfig.cache
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\ClassObjectDemo\obj\Debug\net8.0\ref\ClassObjectDemo.dll

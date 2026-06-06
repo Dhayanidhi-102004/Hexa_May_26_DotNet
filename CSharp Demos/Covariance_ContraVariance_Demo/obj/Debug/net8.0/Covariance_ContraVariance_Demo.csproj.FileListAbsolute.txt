@@ -1,0 +1,15 @@
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\Covariance_ContraVariance_Demo\bin\Debug\net8.0\Covariance_ContraVariance_Demo.exe
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\Covariance_ContraVariance_Demo\bin\Debug\net8.0\Covariance_ContraVariance_Demo.deps.json
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\Covariance_ContraVariance_Demo\bin\Debug\net8.0\Covariance_ContraVariance_Demo.runtimeconfig.json
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\Covariance_ContraVariance_Demo\bin\Debug\net8.0\Covariance_ContraVariance_Demo.dll
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\Covariance_ContraVariance_Demo\bin\Debug\net8.0\Covariance_ContraVariance_Demo.pdb
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\Covariance_ContraVariance_Demo\obj\Debug\net8.0\Covariance_ContraVariance_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\Covariance_ContraVariance_Demo\obj\Debug\net8.0\Covariance_ContraVariance_Demo.AssemblyInfoInputs.cache
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\Covariance_ContraVariance_Demo\obj\Debug\net8.0\Covariance_ContraVariance_Demo.AssemblyInfo.cs
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\Covariance_ContraVariance_Demo\obj\Debug\net8.0\Covariance_ContraVariance_Demo.csproj.CoreCompileInputs.cache
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\Covariance_ContraVariance_Demo\obj\Debug\net8.0\Covariance_ContraVariance_Demo.sourcelink.json
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\Covariance_ContraVariance_Demo\obj\Debug\net8.0\Covariance_ContraVariance_Demo.dll
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\Covariance_ContraVariance_Demo\obj\Debug\net8.0\refint\Covariance_ContraVariance_Demo.dll
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\Covariance_ContraVariance_Demo\obj\Debug\net8.0\Covariance_ContraVariance_Demo.pdb
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\Covariance_ContraVariance_Demo\obj\Debug\net8.0\Covariance_ContraVariance_Demo.genruntimeconfig.cache
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\Covariance_ContraVariance_Demo\obj\Debug\net8.0\ref\Covariance_ContraVariance_Demo.dll

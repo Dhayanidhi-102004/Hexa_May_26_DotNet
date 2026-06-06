@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dhaya\\source\\repos\\Assignment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{526B7AE6-4B23-4C01-8D9F-C0B775EC0429}|Assignment2\\Assignment2.csproj|C:\\Users\\dhaya\\source\\repos\\Assignment2\\assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{526B7AE6-4B23-4C01-8D9F-C0B775EC0429}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{526B7AE6-4B23-4C01-8D9F-C0B775EC0429}|Assignment2\\Assignment2.csproj|c:\\users\\dhaya\\source\\repos\\assignment2\\assignment2\\appointment.buisness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{526B7AE6-4B23-4C01-8D9F-C0B775EC0429}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\appointment.buisness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{526B7AE6-4B23-4C01-8D9F-C0B775EC0429}|Assignment2\\Assignment2.csproj|C:\\Users\\dhaya\\source\\repos\\Assignment2\\assignment2\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{526B7AE6-4B23-4C01-8D9F-C0B775EC0429}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{526B7AE6-4B23-4C01-8D9F-C0B775EC0429}|Assignment2\\Assignment2.csproj|C:\\Users\\dhaya\\source\\repos\\Assignment2\\assignment2\\appointment.validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{526B7AE6-4B23-4C01-8D9F-C0B775EC0429}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\appointment.validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Appointment.Buisness.cs",
+              "DocumentMoniker": "C:\\Users\\dhaya\\source\\repos\\Assignment2\\Assignment2\\Appointment.Buisness.cs",
+              "RelativeDocumentMoniker": "Assignment2\\Appointment.Buisness.cs",
+              "ToolTip": "C:\\Users\\dhaya\\source\\repos\\Assignment2\\Assignment2\\Appointment.Buisness.cs",
+              "RelativeToolTip": "Assignment2\\Appointment.Buisness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T09:17:48.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dhaya\\source\\repos\\Assignment2\\Assignment2\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment2\\Program.cs",
+              "ToolTip": "C:\\Users\\dhaya\\source\\repos\\Assignment2\\Assignment2\\Program.cs",
+              "RelativeToolTip": "Assignment2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T08:53:47.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\dhaya\\source\\repos\\Assignment2\\Assignment2\\Appointment.cs",
+              "RelativeDocumentMoniker": "Assignment2\\Appointment.cs",
+              "ToolTip": "C:\\Users\\dhaya\\source\\repos\\Assignment2\\Assignment2\\Appointment.cs",
+              "RelativeToolTip": "Assignment2\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T08:54:35.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Appointment.Validation.cs",
+              "DocumentMoniker": "C:\\Users\\dhaya\\source\\repos\\Assignment2\\Assignment2\\Appointment.Validation.cs",
+              "RelativeDocumentMoniker": "Assignment2\\Appointment.Validation.cs",
+              "ToolTip": "C:\\Users\\dhaya\\source\\repos\\Assignment2\\Assignment2\\Appointment.Validation.cs",
+              "RelativeToolTip": "Assignment2\\Appointment.Validation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T09:03:40.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

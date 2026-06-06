@@ -1,0 +1,15 @@
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\Partial_Sealed_Demo\bin\Debug\net8.0\Partial_Sealed_Demo.exe
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\Partial_Sealed_Demo\bin\Debug\net8.0\Partial_Sealed_Demo.deps.json
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\Partial_Sealed_Demo\bin\Debug\net8.0\Partial_Sealed_Demo.runtimeconfig.json
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\Partial_Sealed_Demo\bin\Debug\net8.0\Partial_Sealed_Demo.dll
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\Partial_Sealed_Demo\bin\Debug\net8.0\Partial_Sealed_Demo.pdb
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\Partial_Sealed_Demo\obj\Debug\net8.0\Partial_Sealed_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\Partial_Sealed_Demo\obj\Debug\net8.0\Partial_Sealed_Demo.AssemblyInfoInputs.cache
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\Partial_Sealed_Demo\obj\Debug\net8.0\Partial_Sealed_Demo.AssemblyInfo.cs
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\Partial_Sealed_Demo\obj\Debug\net8.0\Partial_Sealed_Demo.csproj.CoreCompileInputs.cache
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\Partial_Sealed_Demo\obj\Debug\net8.0\Partial_Sealed_Demo.sourcelink.json
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\Partial_Sealed_Demo\obj\Debug\net8.0\Partial_Sealed_Demo.dll
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\Partial_Sealed_Demo\obj\Debug\net8.0\refint\Partial_Sealed_Demo.dll
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\Partial_Sealed_Demo\obj\Debug\net8.0\Partial_Sealed_Demo.pdb
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\Partial_Sealed_Demo\obj\Debug\net8.0\Partial_Sealed_Demo.genruntimeconfig.cache
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\Partial_Sealed_Demo\obj\Debug\net8.0\ref\Partial_Sealed_Demo.dll
