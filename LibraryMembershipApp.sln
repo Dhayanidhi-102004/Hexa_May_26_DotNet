@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37314.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryMembershipApp", "LibraryMembershipApp\LibraryMembershipApp.csproj", "{0E688281-F788-4558-88C3-FC24F0168573}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryMembershipApp.Tests", "LibraryMembershipApp.Tests\LibraryMembershipApp.Tests.csproj", "{FFA496E0-D58A-F393-2B07-BACCF6993A57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E688281-F788-4558-88C3-FC24F0168573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E688281-F788-4558-88C3-FC24F0168573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E688281-F788-4558-88C3-FC24F0168573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E688281-F788-4558-88C3-FC24F0168573}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFA496E0-D58A-F393-2B07-BACCF6993A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFA496E0-D58A-F393-2B07-BACCF6993A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFA496E0-D58A-F393-2B07-BACCF6993A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFA496E0-D58A-F393-2B07-BACCF6993A57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E000F7E7-F6FC-4B27-A460-C731B444AD37}
+	EndGlobalSection
+EndGlobal

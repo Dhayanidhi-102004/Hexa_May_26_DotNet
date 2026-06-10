@@ -1,0 +1,13 @@
+-------- SALARY SLIP ------------
+Employee Id    :2
+Employee Name    :Meenakshi
+Department    :HR
+Joining Date    :25-05-YYYY
+Experience   :1
+--------------------------------------------
+Monthly Salary   :45000
+Annual Salary   :540000
+PF Deduction   :5400.00
+Professional Tax   :200
+Net Salary   :39400.00
+----------------------------------------------------

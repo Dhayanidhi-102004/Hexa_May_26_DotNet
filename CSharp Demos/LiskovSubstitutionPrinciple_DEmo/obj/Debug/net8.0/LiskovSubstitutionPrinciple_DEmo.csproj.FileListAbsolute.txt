@@ -1,0 +1,15 @@
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\LiskovSubstitutionPrinciple_DEmo\bin\Debug\net8.0\LiskovSubstitutionPrinciple_DEmo.exe
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\LiskovSubstitutionPrinciple_DEmo\bin\Debug\net8.0\LiskovSubstitutionPrinciple_DEmo.deps.json
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\LiskovSubstitutionPrinciple_DEmo\bin\Debug\net8.0\LiskovSubstitutionPrinciple_DEmo.runtimeconfig.json
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\LiskovSubstitutionPrinciple_DEmo\bin\Debug\net8.0\LiskovSubstitutionPrinciple_DEmo.dll
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\LiskovSubstitutionPrinciple_DEmo\bin\Debug\net8.0\LiskovSubstitutionPrinciple_DEmo.pdb
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\LiskovSubstitutionPrinciple_DEmo\obj\Debug\net8.0\LiskovSubstitutionPrinciple_DEmo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\LiskovSubstitutionPrinciple_DEmo\obj\Debug\net8.0\LiskovSubstitutionPrinciple_DEmo.AssemblyInfoInputs.cache
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\LiskovSubstitutionPrinciple_DEmo\obj\Debug\net8.0\LiskovSubstitutionPrinciple_DEmo.AssemblyInfo.cs
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\LiskovSubstitutionPrinciple_DEmo\obj\Debug\net8.0\LiskovSubstitutionPrinciple_DEmo.csproj.CoreCompileInputs.cache
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\LiskovSubstitutionPrinciple_DEmo\obj\Debug\net8.0\LiskovSubstitutionPrinciple_DEmo.sourcelink.json
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\LiskovSubstitutionPrinciple_DEmo\obj\Debug\net8.0\LiskovSubstitutionPrinciple_DEmo.dll
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\LiskovSubstitutionPrinciple_DEmo\obj\Debug\net8.0\refint\LiskovSubstitutionPrinciple_DEmo.dll
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\LiskovSubstitutionPrinciple_DEmo\obj\Debug\net8.0\LiskovSubstitutionPrinciple_DEmo.pdb
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\LiskovSubstitutionPrinciple_DEmo\obj\Debug\net8.0\LiskovSubstitutionPrinciple_DEmo.genruntimeconfig.cache
+C:\Personal\Hexa May 26 DotNet\CSharp Demos\LiskovSubstitutionPrinciple_DEmo\obj\Debug\net8.0\ref\LiskovSubstitutionPrinciple_DEmo.dll
